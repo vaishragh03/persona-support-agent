@@ -282,20 +282,6 @@ I think my account was hacked
 
 ---
 
-# 📸 Screenshots
-
-> Add screenshots here after deployment
-
-Suggested screenshots:
-
-* Homepage UI
-* Persona Detection
-* Escalation Alert
-* Retrieved Sources
-* AI Generated Response
-
----
-
 # 🔮 Future Improvements
 
 * Conversation Memory
