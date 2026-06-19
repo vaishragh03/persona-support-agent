@@ -14,8 +14,6 @@ The assistant retrieves relevant information from a custom SaaS knowledge base a
 
 # 🚀 Live Demo
 
-> Add your deployed Streamlit URL here after deployment
-
 ```text
 https://persona-support-agent-2026.streamlit.app/
 ```
